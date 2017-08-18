@@ -22,7 +22,6 @@ public class TodoItem {
     }
 
     public static void main(String[] args) {
-
     }
 
     public String toString() {
@@ -39,5 +38,4 @@ public class TodoItem {
     public void markTask() {
         isDone = true;
     }
-
 }

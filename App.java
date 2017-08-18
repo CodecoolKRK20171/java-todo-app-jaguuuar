@@ -37,10 +37,7 @@ public class App{
                 System.out.print("Wrong input");
 
             printContinueButton();
-
         }
-
-
   }
 
     public static void printMenu(){
@@ -76,8 +73,4 @@ public class App{
         System.out.println("\nPress enter to continue...");
         continueButton.nextLine();
     }
-
-
-
-
 }

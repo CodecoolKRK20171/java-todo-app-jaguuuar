@@ -51,8 +51,5 @@ public class TodoList{
             else
                 System.out.println("Wrong task name.");
         }
-
     }
-
-
 }
